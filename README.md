@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 - ⚡ Fun fact **Call me as THILI**
 
-
+<img width="50%" align="right" src="https://raw.githubusercontent.com/ThilinaKaushaka/ThilinaKaushaka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 <br><br>
