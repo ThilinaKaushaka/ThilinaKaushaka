@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThilinaKaushaka&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 
-<img align="left" width="45%"  src="—Pngtree—freelancer software developer programmer coder_16198325.png"/><br><br><br><br>
+<img align="left" width="35%"  src="—Pngtree—freelancer software developer programmer coder_16198325.png"/><br><br><br><br>
 
 
  
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 - ⚡ Fun fact **Call me as THILI**
 
-<img width="50%" align="right" src="https://raw.githubusercontent.com/ThilinaKaushaka/ThilinaKaushaka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img width="60%" align="right" src="https://raw.githubusercontent.com/ThilinaKaushaka/ThilinaKaushaka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 <br><br>
